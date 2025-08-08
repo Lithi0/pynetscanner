@@ -1,21 +1,23 @@
-Copyright (c) 2025 Lithiokride
+Copyright (c) 2025 Lithiokride (Lithi0)
 
 All rights reserved.
 
-This code and its contents are the intellectual property of Lithiokride and are protected by copyright law.
+This repository and its contents are the intellectual property of Lithiokride (Lithi0) and are protected by copyright law.
 
 Usage Conditions:
 
-1. Attribution: Any use, distribution, or modification must explicitly credit Lithiokride as the original author.
+1. Attribution: Any use, distribution, copying, or modification must explicitly credit Lithiokride (Lithi0) as the original author.
 
-2. No Plagiarism: Unauthorized copying, claiming authorship, or distributing derivative works without credit is prohibited.
+2. Educational Use Only: This software is provided solely for educational, research, and learning purposes. Unauthorized commercial, malicious, or unethical use is strictly prohibited.
 
-3. Educational Use Only: This software is provided solely for educational and research purposes. Commercial or malicious use is strictly forbidden.
+3. No Unauthorized Use: Unauthorized copying, claiming authorship, redistribution, or commercial exploitation without explicit permission is forbidden.
 
-4. Disclaimer of Liability: Lithiokride is not responsible for any damages or legal issues arising from the use or misuse of this software.
+4. Disclaimer of Liability: Lithiokride (Lithi0) holds no responsibility or liability for any damages, legal issues, or misuse arising from the use of this software.
 
-5. Enforcement Rights: Lithiokride reserves the right to take legal action against any violation of these terms.
+5. Enforcement Rights: Lithiokride (Lithi0) reserves the right to take legal action against any violation of these terms.
 
-By using this software, you agree to comply with these conditions.
+By using this software, you agree to comply with these conditions and all applicable laws and ethical standards.
 
 ---
+
+Thank you for respecting the author’s rights and using this project responsibly.
