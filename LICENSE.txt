@@ -1,0 +1,21 @@
+Copyright (c) 2025 Lithiokride
+
+All rights reserved.
+
+This code and its contents are the intellectual property of Lithiokride and are protected by copyright law.
+
+Usage Conditions:
+
+1. Attribution: Any use, distribution, or modification must explicitly credit Lithiokride as the original author.
+
+2. No Plagiarism: Unauthorized copying, claiming authorship, or distributing derivative works without credit is prohibited.
+
+3. Educational Use Only: This software is provided solely for educational and research purposes. Commercial or malicious use is strictly forbidden.
+
+4. Disclaimer of Liability: Lithiokride is not responsible for any damages or legal issues arising from the use or misuse of this software.
+
+5. Enforcement Rights: Lithiokride reserves the right to take legal action against any violation of these terms.
+
+By using this software, you agree to comply with these conditions.
+
+---
