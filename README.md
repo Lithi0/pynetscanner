@@ -1,4 +1,4 @@
-# PYNETSCANNER  
+# PYNETSCANNER  (THIS IS A WORK IN PROGRESS, CURRENTLY INCOMPLETE!)
 **By Lithiokride**
 
 ---
@@ -101,3 +101,4 @@ For verification or licensing inquiries, contact **Lithiokride** directly.
 
 ## Thank You!  
 Thanks for using **PYNETSCANNER!** For questions or feature requests, hit up the author.
+
